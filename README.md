@@ -1,3 +1,3 @@
 # Python-com-Google-Colab
 
-Material pertencente ao professor André Perez - Excelente para consulta.
+Material para estudo da linguagem python - excelente para consulta. 
